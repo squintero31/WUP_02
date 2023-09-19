@@ -78,4 +78,13 @@ The p-value is .00000003405. This clearly shows C39 and C52 are very different f
 
 # Discussion and Conclusion
 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+
+I began by instructing ChatGPT to create a box plot, after which I requested that it highlight outliers in red and center the title. I also requested that Chat GPT make further modifications, like enlarging the font.
+
+After finishing, I asked ChatGPT to produce a notch box plot.
+
+When the date was viewed, it became apparent that C52 has a higher level of vitamin C. This made it quite evident that there was a big difference between the two unrelated causes.
