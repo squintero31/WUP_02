@@ -49,9 +49,9 @@ theme(
 
 
 ```
+Per the Boxplot, C52 shows a higher level of vitamin C.
 
-
-
+You can tell from a close examination of the two boxes that they are not connected, which denotes a sizable discrepancy. 
 
 
 
